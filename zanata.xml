@@ -4,5 +4,5 @@
   <project>zanatasync</project>
   <project-version>master</project-version>
   <project-type>gettext</project-type>
-
+  <locales><locale>as</locale></locales>
 </config>
