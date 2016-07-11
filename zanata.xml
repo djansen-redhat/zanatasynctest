@@ -3,5 +3,5 @@
   <url>http://localhost:8080/</url>
   <project>zanatasync</project>
   <project-version>master</project-version>
-  <locales><locale>as</locale></locales>
+  <project-type>gettext</project-type>
 </config>
