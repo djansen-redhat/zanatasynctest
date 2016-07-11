@@ -1,0 +1,2 @@
+# zanatasynctest
+Testing Zanata Sync
